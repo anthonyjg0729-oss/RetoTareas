@@ -15,3 +15,4 @@ C:\Users\USER\Desktop\Proyect\backend-reto\TaskManager.Infrastructure\obj\Debug\
 C:\Users\USER\Desktop\Proyect\backend-reto\TaskManager.Infrastructure\obj\Debug\net8.0\refint\TaskManager.Infrastructure.dll
 C:\Users\USER\Desktop\Proyect\backend-reto\TaskManager.Infrastructure\obj\Debug\net8.0\TaskManager.Infrastructure.pdb
 C:\Users\USER\Desktop\Proyect\backend-reto\TaskManager.Infrastructure\obj\Debug\net8.0\ref\TaskManager.Infrastructure.dll
+C:\Users\USER\Desktop\Proyect\backend-reto\TaskManager.Infrastructure\obj\Debug\net8.0\TaskManager.Infrastructure.sourcelink.json

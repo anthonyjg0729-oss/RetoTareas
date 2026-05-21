@@ -40,3 +40,4 @@ C:\Users\USER\Desktop\Proyect\backend-reto\TaskManager.API\obj\Debug\net8.0\refi
 C:\Users\USER\Desktop\Proyect\backend-reto\TaskManager.API\obj\Debug\net8.0\TaskManager.API.pdb
 C:\Users\USER\Desktop\Proyect\backend-reto\TaskManager.API\obj\Debug\net8.0\TaskManager.API.genruntimeconfig.cache
 C:\Users\USER\Desktop\Proyect\backend-reto\TaskManager.API\obj\Debug\net8.0\ref\TaskManager.API.dll
+C:\Users\USER\Desktop\Proyect\backend-reto\TaskManager.API\obj\Debug\net8.0\TaskManager.API.sourcelink.json
